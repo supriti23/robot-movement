@@ -1,4 +1,4 @@
-# Mars Rover Operation
+# Robot Movement
  This is a frontend application where user can press either of the three buttons "L" / "R" / "F" to give intructions to the move the robot. The robot moves 90 degree negative on pressing "L" and moves 90 degree positive on pressing "R" and moves forward in the direction it is already facing when "F" is pressed. There is also a "clear" button to clear the previous set of instructions.
 
  ### Assumptions
