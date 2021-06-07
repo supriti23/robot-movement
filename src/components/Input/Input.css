@@ -1,0 +1,19 @@
+.inputWrapper {
+  position: fixed;
+  width: 80vw;
+}
+.inputWrapper > button ,.inputWrapper > input {
+  width: "50%";
+  margin: "auto";
+  font-size: "xx-large";
+  border-radius: "20px";
+  border: "1.5px solid";
+  margin: 1% 0.5%;
+  padding: 1%;
+}
+.inputWrapper > input{
+  background-color: rgba(90, 88, 88, 0.3);
+}
+.inputWrapper > button:hover{
+background-color: rgb(255, 115, 0);
+}
